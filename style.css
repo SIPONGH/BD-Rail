@@ -1,0 +1,78 @@
+
+ul li a:hover{
+    border-bottom: 1px solid black;
+}
+.dropdown-item:hover{
+    background-color: aquamarine;
+}
+#dropdownMenuButton1{
+    width: 100%;
+}
+.bbs{
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+}
+.pl{
+    width: 230px;
+}
+.btn{
+    height:0px;
+}
+.scr{
+    background-color: rgb(106, 207, 106);
+}
+.btn1{
+    background-color: rgb(13, 51, 13);
+    height:50px;
+    width: 100%;
+    text-align: center;
+    
+}
+#div9 {
+    opacity:0.6;
+}
+#div9:hover{
+    opacity:1;
+}
+.im img{
+    width:100%;
+    height:400px;
+}
+.ip img{
+    height:40px;
+    width:40px;
+}
+.bgImage{
+    background-image: url('img/train-illustration-for-train-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ss img{
+    height: 30px;
+    width: 50px;
+   
+    
+}
+.tt{
+    padding-top:20px;
+    float: right;
+}   
+.bgImage{
+    position: relative;
+}
+.im2 img{
+    height: 70px;
+    width: 90px;
+    
+}
+
+.div3{
+    background-color: green;
+    height:3px;
+    width: 100%;
+}
+.bgg{
+    background-color:rgba(236, 216, 216, 0.534);
+}
